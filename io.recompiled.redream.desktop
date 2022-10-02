@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=redream
+GenericName=Dreamcast Emulator
+Icon=io.recompiled.redream
+TryExec=redream
+Exec=redream %f
+Categories=Game;Emulator;

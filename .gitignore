@@ -1,0 +1,6 @@
+build-dir/
+repo/
+.flatpak-builder/
+.idea/
+.vscode/
+redream.flatpak

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>io.recompiled.redream</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>LicenseRef-proprietary</project_license>
+  <name>redream</name>
+  <developer_name>Anthony Pesch</developer_name>
+  <url type="homepage">https://redream.io/</url>
+  <url type="help">https://redream.io/help</url>
+  <summary>Experience the Dreamcast in HD.</summary>
+  <description>
+    <p>redream is a closed source emulator for the Sega Dreamcast console.</p>
+  </description>
+  <screenshots>
+    <screenshot type="default"><image>https://redream.io/img/jumbo/doa2.jpg</image></screenshot>
+    <screenshot><image>https://redream.io/img/jumbo/ct.jpg</image></screenshot>
+    <screenshot><image>https://redream.io/img/jumbo/library.jpg</image></screenshot>
+    <screenshot><image>https://redream.io/img/jumbo/nowplaying.jpg</image></screenshot>
+  </screenshots>
+  <launchable type="desktop-id">io.recompiled.redream.desktop</launchable>
+  <content_rating type="oars-1.1" />
+  <releases>
+    <release version="1.5.0-1045-g9f00768" date="2022-05-23" />
+  </releases>
+</component>
